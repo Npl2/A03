@@ -1,7 +1,8 @@
 
-Random Note ~ to create a new line in a ".md" file, double space at the end of the sentence.  
+Random Note ~ to break up a line in a ".md" file, double space at the end of the sentence.  
 
-Installation Process: 
+Installation Process
+****
 
 Webstorm:  
 1 - Download the latest version of WebStorm from JetBrains, https://www.jetbrains.com/webstorm/download/#section=windows.  
@@ -21,5 +22,29 @@ Git:
 
 Log into account: Share by:: Empty
 AUthorization of Github on JetBrains
+****
+Glossary:
+
+**Branch** - is a instruction that tells a computer to begin executing different instructions rather than simply executing the instructions in order.  
+**Clone** - the process of creating an exact copy of another application program or object
+**Commit** - updating of a record in a database.  
+**Fetch** - is the retrieval of data by a software program, script, or hardware device.   
+**GIT** - a software for tracking changes in any set of files, version control system  
+**Github** - a web-based version-control and collaboration platform for software developers
+**Merge** - is the process of combing the carious versions of a file or folder  
+**Merge Conflict** - an event that occurs when Git is unable to automatically resolve differences in code between two commits  
+**Push** - a command to used to upload local repository content to a remote repository 
+**Pull** - used to fetch and download content from a remote repository and immediately update the local repository to match that content   
+**Remote** - a git command that is one piece of the broader system which is responsible for syncing changes  
+**Repository** - a central file storage file location 
+****
+
+
+
+
+
+
+
+
 
 
