@@ -13,10 +13,10 @@ Webstorm:
 
 Git:  
 1 - Download the latest version of Webstorm from git, https://git-scm.com/downloads.  
-2 - Choose the operating system you plan on using. Then click, "Click here to download" for the latest version.
-3 - Go to the location you placed the download and install it. It will ask you if it can make changes to your device, click yes.
-4 - It will prompt you with its license. You can read it and click next.
-5 - Next it will ask you how you for a install location. You can use the defualt location or change it.
+2 - Choose the operating system you plan on using. Then click, "Click here to download" for the latest version.  
+3 - Go to the location you placed the download and install it. It will ask you if it can make changes to your device, click yes.  
+4 - It will prompt you with its license. You can read it and click next.  
+5 - Next it will ask you how you for a install location. You can use the defualt location or change it.  
 6 - For the next 14 pages, I left them as default. You can change them to fit your needs.
 
 
