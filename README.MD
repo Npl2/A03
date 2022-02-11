@@ -3,7 +3,7 @@ Random Note ~ to break up a line in a ".md" file, double space at the end of the
 
 Installation Process
 -
-###Webstorm:  
+### Webstorm:  
 1 - Download the latest version of WebStorm from JetBrains, https://www.jetbrains.com/webstorm/download/#section=windows.  
 
 2 - Go to the location you placed the download and install it. It will ask you if it can make changes to your device, click yes.  
@@ -14,7 +14,7 @@ Installation Process
 
 5 - Next it will ask you to choose a start menu folder, you can leave it as default. Now click install.
 
-###Git:  
+### Git:  
 
 1 - Download the latest version of Webstorm from git, https://git-scm.com/downloads.  
 
