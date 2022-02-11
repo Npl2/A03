@@ -40,7 +40,7 @@ If you installed Git correctly it, the version of Git should appear below the pa
 
 4 - Now click "Create New Project" on the main page  
 
-5 - Choose a location and give the project a name. I chose IS117DemoS20.  
+5 - Choose a location and give the project a name. I chose A03.  
 
 6 - Click "Create".  
 
